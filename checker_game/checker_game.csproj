@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="black.png" />
+    <None Remove="blackTwo.png" />
+    <None Remove="none.png" />
+    <None Remove="white.png" />
+    <None Remove="whiteTwo.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="ViewModel\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\black.png" />
+    <Resource Include="Images\blackTwo.png" />
+    <Resource Include="Images\none.png" />
+    <Resource Include="Images\white.png" />
+    <Resource Include="Images\whiteTwo.png" />
+  </ItemGroup>
+
+</Project>
