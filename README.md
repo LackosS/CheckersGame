@@ -1,5 +1,5 @@
-# Checker Game in C#
-Checker_Game fully implemented in C# with MVVM architecture.
+# Checkers Game in C#
+Checkers_Game fully implemented in C# with MVVM architecture.
 
 ## Screenshots
 
