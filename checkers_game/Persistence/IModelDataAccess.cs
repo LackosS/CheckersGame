@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace checker_game.Persistence
+namespace checkers_game.Persistence
 {
     /// <summary>
     /// File manager.

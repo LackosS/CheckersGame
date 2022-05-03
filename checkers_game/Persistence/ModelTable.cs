@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace checker_game.Persistence
+namespace checkers_game.Persistence
 {
     public enum Player { PlayerWhite, PlayerBlack }; //1 and 2
     public class ModelTable

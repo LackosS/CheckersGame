@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace checker_game.Persistence
+namespace checkers_game.Persistence
 {
     /// <summary>
     /// DataAccess exception type.

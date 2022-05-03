@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using checker_game.Persistence;
+using checkers_game.Persistence;
 
-namespace checker_game.ViewModel
+namespace checkers_game.ViewModel
 {
     public class GameField : ViewModelBase
     {

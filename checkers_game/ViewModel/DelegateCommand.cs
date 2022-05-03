@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Input;
 
-namespace checker_game.ViewModel
+namespace checkers_game.ViewModel
 {
     public class DelegateCommand : ICommand
     {

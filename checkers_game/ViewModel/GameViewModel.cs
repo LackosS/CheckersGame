@@ -4,10 +4,10 @@ using System.Collections.ObjectModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using checker_game.Model;
-using checker_game.Persistence;
+using checkers_game.Model;
+using checkers_game.Persistence;
 
-namespace checker_game.ViewModel
+namespace checkers_game.ViewModel
 {
     public class GameViewModel : ViewModelBase
     {

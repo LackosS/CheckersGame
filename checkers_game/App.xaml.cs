@@ -5,13 +5,13 @@ using System.Data;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
-using checker_game.Model;
-using checker_game.ViewModel;
-using checker_game.Persistence;
+using checkers_game.Model;
+using checkers_game.ViewModel;
+using checkers_game.Persistence;
 using System.ComponentModel;
 using Microsoft.Win32;
 
-namespace checker_game
+namespace checkers_game
 {
     /// <summary>
     /// Interaction logic for App.xaml

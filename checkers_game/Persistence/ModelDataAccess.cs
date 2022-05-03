@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.IO;
 using System.Text;
 using System.Threading.Tasks;
-using checker_game.Model;
+using checkers_game.Model;
 
-namespace checker_game.Persistence
+namespace checkers_game.Persistence
 {
     /// <summary>
     /// Type of file manager

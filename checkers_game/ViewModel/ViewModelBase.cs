@@ -6,7 +6,7 @@ using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace checker_game.ViewModel
+namespace checkers_game.ViewModel
 {
     public abstract class ViewModelBase : INotifyPropertyChanged
     {
